@@ -1,2 +1,3 @@
 # Research-Portfolio
-A repository containing all of my work that I have done over the course of my undergraduate degree in physics
+This repository contains what I consider to be the most instructional part of my degree: my research. Not everything here is complete, but it serves to give an accurate picture of
+my "extracurricular" academic interests. As can be seen, there is a strong focus on mathematical analysis augmented via code. Most of the projects are focused on systems with strong nonlinearities, and links to either turbulence, or energy generation. The construction of what is contained here involved a large amount of dedicated study outside of class and often outside of class material. I view it as the most valuable aspect of my degree: learning to pursue knowledge of my own volition. Hopefully this repository is effective in providing viewers with an in-depth look at both my interests, and my skills.
